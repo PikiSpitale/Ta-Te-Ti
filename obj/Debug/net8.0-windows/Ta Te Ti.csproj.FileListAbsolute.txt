@@ -1,0 +1,20 @@
+C:\Users\pikis\OneDrive\Escritorio\Programacion\Projects\Ta Te Ti\bin\Debug\net8.0-windows\Ta Te Ti.exe
+C:\Users\pikis\OneDrive\Escritorio\Programacion\Projects\Ta Te Ti\bin\Debug\net8.0-windows\Ta Te Ti.deps.json
+C:\Users\pikis\OneDrive\Escritorio\Programacion\Projects\Ta Te Ti\bin\Debug\net8.0-windows\Ta Te Ti.runtimeconfig.json
+C:\Users\pikis\OneDrive\Escritorio\Programacion\Projects\Ta Te Ti\bin\Debug\net8.0-windows\Ta Te Ti.dll
+C:\Users\pikis\OneDrive\Escritorio\Programacion\Projects\Ta Te Ti\bin\Debug\net8.0-windows\Ta Te Ti.pdb
+C:\Users\pikis\OneDrive\Escritorio\Programacion\Projects\Ta Te Ti\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\pikis\OneDrive\Escritorio\Programacion\Projects\Ta Te Ti\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\pikis\OneDrive\Escritorio\Programacion\Projects\Ta Te Ti\obj\Debug\net8.0-windows\Ta Te Ti_MarkupCompile.cache
+C:\Users\pikis\OneDrive\Escritorio\Programacion\Projects\Ta Te Ti\obj\Debug\net8.0-windows\Ta Te Ti_MarkupCompile.lref
+C:\Users\pikis\OneDrive\Escritorio\Programacion\Projects\Ta Te Ti\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\pikis\OneDrive\Escritorio\Programacion\Projects\Ta Te Ti\obj\Debug\net8.0-windows\Ta Te Ti.g.resources
+C:\Users\pikis\OneDrive\Escritorio\Programacion\Projects\Ta Te Ti\obj\Debug\net8.0-windows\Ta Te Ti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pikis\OneDrive\Escritorio\Programacion\Projects\Ta Te Ti\obj\Debug\net8.0-windows\Ta Te Ti.AssemblyInfoInputs.cache
+C:\Users\pikis\OneDrive\Escritorio\Programacion\Projects\Ta Te Ti\obj\Debug\net8.0-windows\Ta Te Ti.AssemblyInfo.cs
+C:\Users\pikis\OneDrive\Escritorio\Programacion\Projects\Ta Te Ti\obj\Debug\net8.0-windows\Ta Te Ti.csproj.CoreCompileInputs.cache
+C:\Users\pikis\OneDrive\Escritorio\Programacion\Projects\Ta Te Ti\obj\Debug\net8.0-windows\Ta Te Ti.dll
+C:\Users\pikis\OneDrive\Escritorio\Programacion\Projects\Ta Te Ti\obj\Debug\net8.0-windows\refint\Ta Te Ti.dll
+C:\Users\pikis\OneDrive\Escritorio\Programacion\Projects\Ta Te Ti\obj\Debug\net8.0-windows\Ta Te Ti.pdb
+C:\Users\pikis\OneDrive\Escritorio\Programacion\Projects\Ta Te Ti\obj\Debug\net8.0-windows\Ta Te Ti.genruntimeconfig.cache
+C:\Users\pikis\OneDrive\Escritorio\Programacion\Projects\Ta Te Ti\obj\Debug\net8.0-windows\ref\Ta Te Ti.dll

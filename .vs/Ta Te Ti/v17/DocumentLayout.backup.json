@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pikis\\OneDrive\\Escritorio\\Programacion\\Projects\\Ta Te Ti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9C966C-5DAE-4B2F-9FBD-52D1D0676BDB}|Ta Te Ti.csproj|c:\\users\\pikis\\onedrive\\escritorio\\programacion\\projects\\ta te ti\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9C966C-5DAE-4B2F-9FBD-52D1D0676BDB}|Ta Te Ti.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9C966C-5DAE-4B2F-9FBD-52D1D0676BDB}|Ta Te Ti.csproj|c:\\users\\pikis\\onedrive\\escritorio\\programacion\\projects\\ta te ti\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BF9C966C-5DAE-4B2F-9FBD-52D1D0676BDB}|Ta Te Ti.csproj|solutionrelative:mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9C966C-5DAE-4B2F-9FBD-52D1D0676BDB}|Ta Te Ti.csproj|c:\\users\\pikis\\onedrive\\escritorio\\programacion\\projects\\ta te ti\\casilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9C966C-5DAE-4B2F-9FBD-52D1D0676BDB}|Ta Te Ti.csproj|solutionrelative:casilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Casilla.cs",
+              "DocumentMoniker": "C:\\Users\\pikis\\OneDrive\\Escritorio\\Programacion\\Projects\\Ta Te Ti\\Casilla.cs",
+              "RelativeDocumentMoniker": "Casilla.cs",
+              "ToolTip": "C:\\Users\\pikis\\OneDrive\\Escritorio\\Programacion\\Projects\\Ta Te Ti\\Casilla.cs",
+              "RelativeToolTip": "Casilla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:26:46.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pikis\\OneDrive\\Escritorio\\Programacion\\Projects\\Ta Te Ti\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\pikis\\OneDrive\\Escritorio\\Programacion\\Projects\\Ta Te Ti\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T06:13:16.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pikis\\OneDrive\\Escritorio\\Programacion\\Projects\\Ta Te Ti\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\pikis\\OneDrive\\Escritorio\\Programacion\\Projects\\Ta Te Ti\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowEUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:09:51.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
